@@ -1,5 +1,7 @@
 Chronicle-Logger
 ================
+*Note that version chronicle-logger-parent-1.1.0  is the last official version released under the apache license.
+
 
 An extremely fast java logger. We feel logging should not slow down your system.
 
